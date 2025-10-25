@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+<rss xmlns:a10="http://www.w3.org/2005/Atom" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes:="http://www.itunes:.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel permissionRevoked="" notes="• كتاب : التبيان في أداب حملة القرآن&#xD;&#xA;• المؤلف : أبو زكريا محيي الدين يحيى بن شرف النووي&#xD;&#xA;• شرح : الشيخ / د. عبدالمحسن بن محمد القاسم">
     <title>التبيان في أداب حملة القرآن | الشيخ د. عبد المحسن القاسم</title>
     <link>https://raw.githubusercontent.com/islam2hamy/test/main/d1.html</link>
@@ -7,13 +7,13 @@
 • المؤلف : أبو زكريا محيي الدين يحيى بن شرف النووي
 • شرح : الشيخ / د. عبدالمحسن بن محمد القاسم</description>
     <language>ar</language>
-    <lastBuildDate>Fri, 24 Oct 2025 18:43:30 Z</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 05:40:28 Z</lastBuildDate>
     <generator>mp3scraper v2023.9.19.0, mp3scrApi v2022.5.6.1, by Gary Gocek, http://www.gocek.org/software/</generator>
-    <itunes:explicit>False</itunes:explicit>
-    <itunes:title>التبيان في أداب حملة القرآن | الشيخ د. عبد المحسن القاسم</itunes:title>
-    <itunes:author>Islamic Podcast</itunes:author>
-    <itunes:complete>Yes</itunes:complete>
-    <itunes:type>Serial</itunes:type>
+    <itunes::explicit>False</itunes::explicit>
+    <itunes::title>التبيان في أداب حملة القرآن | الشيخ د. عبد المحسن القاسم</itunes::title>
+    <itunes::author>Islamic Podcast</itunes::author>
+    <itunes::complete>Yes</itunes::complete>
+    <itunes::type>Serial</itunes::type>
     <image>
       <url>http://www.gocek.org/podcasts/mp3scraper-logo.jpg</url>
       <title>التبيان في أداب حملة القرآن | الشيخ د. عبد المحسن القاسم</title>
@@ -29,10 +29,11 @@
       <pubDate>Mon, 21 Feb 2011 19:19:38 Z</pubDate>
       <enclosure url="http://a-alqasim.com/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3/07%D8%B1%D9%82%D8%A7%D8%A6%D9%82/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A3%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/01%D8%A7%D9%84%D9%85%D9%82%D8%AF%D9%85%D8%A9%2017-03-1432.mp3" type="audio/mpeg" length="3471363" />
       <a10:updated>2011-02-21T19:19:38Z</a10:updated>
-      <itunes:duration></itunes:duration>
-      <itunes:episode>1</itunes:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:title>01المقدمة 17-03-1432</itunes:title>
+      <itunes::duration></itunes::duration>
+      <itunes::episode>1</itunes::episode>
+      <itunes::explicit>false</itunes::explicit>
+      <itunes::title>01المقدمة 17-03-1432</itunes::title>
+      <link>https://a-alqasim.com/sounds-explain-cats/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D8%AF%D8%A7%D8%A8-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/</link>
     </item>
     <item>
       <guid isPermaLink="false">التبيان في أداب حملة القرآن - 02الباب الأول 18-03-1432</guid>
@@ -44,10 +45,11 @@
       <pubDate>Tue, 22 Feb 2011 16:36:50 Z</pubDate>
       <enclosure url="http://a-alqasim.com/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3/07%D8%B1%D9%82%D8%A7%D8%A6%D9%82/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A3%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/02%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%2018-03-1432.mp3" type="audio/mpeg" length="3997051" />
       <a10:updated>2011-02-22T16:36:50Z</a10:updated>
-      <itunes:duration></itunes:duration>
-      <itunes:episode>2</itunes:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:title>02الباب الأول 18-03-1432</itunes:title>
+      <itunes::duration></itunes::duration>
+      <itunes::episode>2</itunes::episode>
+      <itunes::explicit>false</itunes::explicit>
+      <itunes::title>02الباب الأول 18-03-1432</itunes::title>
+      <link>https://a-alqasim.com/sounds-explain-cats/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D8%AF%D8%A7%D8%A8-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/</link>
     </item>
     <item>
       <guid isPermaLink="false">التبيان في أداب حملة القرآن - 03الباب الثاني 19-03-1432</guid>
@@ -59,10 +61,11 @@
       <pubDate>Wed, 23 Feb 2011 15:20:44 Z</pubDate>
       <enclosure url="http://a-alqasim.com/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3/07%D8%B1%D9%82%D8%A7%D8%A6%D9%82/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A3%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/03%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%2019-03-1432.mp3" type="audio/mpeg" length="2679957" />
       <a10:updated>2011-02-23T15:20:44Z</a10:updated>
-      <itunes:duration></itunes:duration>
-      <itunes:episode>3</itunes:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:title>03الباب الثاني 19-03-1432</itunes:title>
+      <itunes::duration></itunes::duration>
+      <itunes::episode>3</itunes::episode>
+      <itunes::explicit>false</itunes::explicit>
+      <itunes::title>03الباب الثاني 19-03-1432</itunes::title>
+      <link>https://a-alqasim.com/sounds-explain-cats/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D8%AF%D8%A7%D8%A8-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/</link>
     </item>
     <item>
       <guid isPermaLink="false">التبيان في أداب حملة القرآن - 04الباب الرابع 20-03-1432</guid>
@@ -74,10 +77,11 @@
       <pubDate>Fri, 25 Feb 2011 06:53:54 Z</pubDate>
       <enclosure url="http://a-alqasim.com/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3/07%D8%B1%D9%82%D8%A7%D8%A6%D9%82/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A3%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/04%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%2020-03-1432.mp3" type="audio/mpeg" length="2084052" />
       <a10:updated>2011-02-25T06:53:54Z</a10:updated>
-      <itunes:duration></itunes:duration>
-      <itunes:episode>4</itunes:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:title>04الباب الرابع 20-03-1432</itunes:title>
+      <itunes::duration></itunes::duration>
+      <itunes::episode>4</itunes::episode>
+      <itunes::explicit>false</itunes::explicit>
+      <itunes::title>04الباب الرابع 20-03-1432</itunes::title>
+      <link>https://a-alqasim.com/sounds-explain-cats/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D8%AF%D8%A7%D8%A8-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/</link>
     </item>
     <item>
       <guid isPermaLink="false">التبيان في أداب حملة القرآن - 05فصل في الإعراض عن أعراض الدنيا 22-03-1432</guid>
@@ -89,10 +93,11 @@
       <pubDate>Sat, 26 Feb 2011 18:39:36 Z</pubDate>
       <enclosure url="http://a-alqasim.com/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3/07%D8%B1%D9%82%D8%A7%D8%A6%D9%82/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A3%D8%AF%D8%A7%D8%A8%20%D8%AD%D9%81%D8%B8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/05%D9%81%D8%B5%D9%84%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%A5%D8%B9%D8%B1%D8%A7%D8%B6%20%D8%B9%D9%86%20%D8%A3%D8%B9%D8%B1%D8%A7%D8%B6%20%D8%A7%D9%84%D8%AF%D9%86%D9%8A%D8%A7%2022-03-1432.mp3" type="audio/mpeg" length="2166808" />
       <a10:updated>2011-02-26T18:39:36Z</a10:updated>
-      <itunes:duration></itunes:duration>
-      <itunes:episode>5</itunes:episode>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:title>05فصل في الإعراض عن أعراض الدنيا 22-03-1432</itunes:title>
+      <itunes::duration></itunes::duration>
+      <itunes::episode>5</itunes::episode>
+      <itunes::explicit>false</itunes::explicit>
+      <itunes::title>05فصل في الإعراض عن أعراض الدنيا 22-03-1432</itunes::title>
+      <link>https://a-alqasim.com/sounds-explain-cats/%D8%A7%D9%84%D8%AA%D8%A8%D9%8A%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D8%AF%D8%A7%D8%A8-%D8%AD%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86/</link>
     </item>
   </channel>
 </rss>
